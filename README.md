@@ -2,6 +2,8 @@
 
 This repository stores some documents related to my experience with [Apache Beam Tour](https://tour.beam.apache.org/).
 
+> The code in this repository is not exactly as it is in the tour, in some cases I have briefly modified it for execution convenience.
+
 ## References
 
 - [Apache Beam Tour](https://tour.beam.apache.org/)
