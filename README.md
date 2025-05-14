@@ -4,6 +4,17 @@ This repository stores some documents related to my experience with [Apache Beam
 
 > The code in this repository is not exactly as it is in the tour, in some cases I have briefly modified it for execution convenience.
 
+## Section of the Tour completed
+
+- [x] Introduction
+- [ ] Common Transforms
+- [ ] Core Transforms
+- [ ] Windowing
+- [ ] Triggers
+- [ ] IO Connectors
+- [ ] Splittable doFn
+- [ ] Final Challenge
+
 ## References
 
 - [Apache Beam Tour](https://tour.beam.apache.org/)
