@@ -9,3 +9,4 @@ This repository stores some documents related to my experience with [Apache Beam
 - [Apache Beam Tour](https://tour.beam.apache.org/)
 - [DirectRunner](https://beam.apache.org/documentation/runners/direct/)
 - [Dataflow Runner](https://beam.apache.org/documentation/runners/dataflow/)
+- [user-code-serializability](https://beam.apache.org/documentation/programming-guide/#user-code-serializability)
